@@ -1,0 +1,18 @@
+{
+  "name": "tour-of-heroes-ghc-extension",
+  "version": "1.0.0",
+  "description": "A basic example of a GitHub Copilot Extension",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/core": "^6.1.2",
+    "express": "^4.21.0",
+    "openai": "^4.67.1"
+  }
+}
