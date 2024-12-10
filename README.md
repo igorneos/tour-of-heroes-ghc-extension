@@ -1,7 +1,7 @@
 # 🦸🏼‍♀️ Tour of Heroes GitHub Copilot extension 🤖
 
-![GitHub Copilot extension for heroes](docs/images/GH%20Copilot%20extension%20for%20heroes.jpeg)
+¡Hola developer 👋🏼! Este repo contiene la demo que mostré durante el evento AI Tour Madrid 2024, donde conté lo sencillo que es crear tus propias extensiones para GitHub Copilot. Aquí puedes ver el vídeo que preparé después para contar la demo con detalle:
 
-## What is this?
+[![GitHub Copilot extension for heroes](docs/images/Cómo%20crear%20GitHub%20Copilot%20Extensions.png)](https://youtu.be/8JRGNIuEKAQ)
 
-Hello there! 👋🏼  This is a demo for GitHub Copilot Extensions. 
+¡Nos vemos 👋🏼! 
